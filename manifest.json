@@ -44,6 +44,12 @@
       "sha256": "2e1f82e53e44f4e89bfed06aa423e22d81959e729b0e9a8088b4e9623f6aff8b"
     },
     {
+      "path": "KNOWN_LIMITATIONS.md",
+      "original_path": "KNOWN_LIMITATIONS.md",
+      "bytes": 4921,
+      "sha256": "6fe759ad3cf1a8edd236b1cac8f0b3f14061c4104792a0094648948f043eb40c"
+    },
+    {
       "path": "PORTING.md",
       "original_path": "PORTING.md",
       "bytes": 8215,
@@ -52,8 +58,8 @@
     {
       "path": "README.md",
       "original_path": "README.md",
-      "bytes": 3243,
-      "sha256": "b5def931b9f6318504d289bc9cd967503ba6fecd9b8ba11d75754034e796aeca"
+      "bytes": 3517,
+      "sha256": "a0a2f64aad4c587c82901291b96df7886ed94e7d8141269258d84bdbc677116d"
     },
     {
       "path": "animation-map.json",
