@@ -1,0 +1,257 @@
+{
+  "title": "芬妮与邦妮 Q 版桌宠",
+  "sprite_format_version": 2,
+  "atlas_size": [
+    1536,
+    2288
+  ],
+  "cell_size": [
+    192,
+    208
+  ],
+  "columns": 8,
+  "rows": 11,
+  "standard_states": 9,
+  "look_directions": 16,
+  "populated_frames": 73,
+  "layout": "flat",
+  "filename_mapping": "Replace / in original_path with __; root metadata filenames remain unchanged.",
+  "characters": [
+    {
+      "name": "芬妮",
+      "spritesheet": "pets__fenny__spritesheet.png",
+      "original_path": "pets/fenny/spritesheet.png",
+      "sha256": "4c3822e6d657f2e866c3ac7c781e3d1d481705738b520a77fee13ba1f81f4812"
+    },
+    {
+      "name": "邦妮",
+      "spritesheet": "pets__bonnie__spritesheet.png",
+      "original_path": "pets/bonnie/spritesheet.png",
+      "sha256": "18bd8b9d82b8fb88361b3b892876c2c63152b019916e41e24ad30e47677974ef"
+    }
+  ],
+  "files": [
+    {
+      "path": ".gitattributes",
+      "original_path": ".gitattributes",
+      "bytes": 47,
+      "sha256": "b0434943ef3401fffced210f47cf53dc5c85b9f99f35c277cbbbe64c2dfb342c"
+    },
+    {
+      "path": ".gitignore",
+      "original_path": ".gitignore",
+      "bytes": 85,
+      "sha256": "2e1f82e53e44f4e89bfed06aa423e22d81959e729b0e9a8088b4e9623f6aff8b"
+    },
+    {
+      "path": "README.md",
+      "original_path": "README.md",
+      "bytes": 2594,
+      "sha256": "b80d28d7fbf8c097e6e4c0529ea9691651624350bd92e9b4ae9cd2c4aafe93c8"
+    },
+    {
+      "path": "pets__bonnie__all-actions.gif",
+      "original_path": "pets/bonnie/all-actions.gif",
+      "bytes": 3337120,
+      "sha256": "9d6d13eef779bae3e470bd35c9b7a705f33bb70a1897b936992b18b0037ffd72"
+    },
+    {
+      "path": "pets__bonnie__all-actions.mp4",
+      "original_path": "pets/bonnie/all-actions.mp4",
+      "bytes": 428498,
+      "sha256": "4bccdfa3fe5e1dea3c3653e086b2f39c69cd31fd974dbb8deb2e9aae3ab35f55"
+    },
+    {
+      "path": "pets__bonnie__contact-sheet.png",
+      "original_path": "pets/bonnie/contact-sheet.png",
+      "bytes": 2893126,
+      "sha256": "8e098e30d2447cf3321c1f133973fc6e85388d2a105b09b365d69b417cdc9478"
+    },
+    {
+      "path": "pets__bonnie__direction-sheet.png",
+      "original_path": "pets/bonnie/direction-sheet.png",
+      "bytes": 1092666,
+      "sha256": "d08b291fe1efd4b8f40dba855276b72b5ececae6abbbd927d25a68be3f221566"
+    },
+    {
+      "path": "pets__bonnie__idle-jump-idle.gif",
+      "original_path": "pets/bonnie/idle-jump-idle.gif",
+      "bytes": 243612,
+      "sha256": "981e9984223de247d5ec077b86b7c021bf3cc09b05e8e0ab6c1f5167c73f3528"
+    },
+    {
+      "path": "pets__bonnie__look-loop.gif",
+      "original_path": "pets/bonnie/look-loop.gif",
+      "bytes": 950271,
+      "sha256": "a639d8cb3c06a0e6a13dd19a41014fa5217eafdd2049128b9700fe284d972cb0"
+    },
+    {
+      "path": "pets__bonnie__spritesheet.png",
+      "original_path": "pets/bonnie/spritesheet.png",
+      "bytes": 3520904,
+      "sha256": "18bd8b9d82b8fb88361b3b892876c2c63152b019916e41e24ad30e47677974ef"
+    },
+    {
+      "path": "pets__bonnie__states__failed.gif",
+      "original_path": "pets/bonnie/states/failed.gif",
+      "bytes": 100302,
+      "sha256": "eba3617251c551e1ad2a2979bfec592322096ba4a59f0a7bd6c0f90c652e1859"
+    },
+    {
+      "path": "pets__bonnie__states__idle.gif",
+      "original_path": "pets/bonnie/states/idle.gif",
+      "bytes": 88651,
+      "sha256": "ab483698aa1e64906171771a8babbbc736012d89c65dfabb44058aefa81df413"
+    },
+    {
+      "path": "pets__bonnie__states__jumping.gif",
+      "original_path": "pets/bonnie/states/jumping.gif",
+      "bytes": 66376,
+      "sha256": "4a38f9d6c286b0d10708a23e2f9fbf19f3703fba9f7671418662d911f2bb3464"
+    },
+    {
+      "path": "pets__bonnie__states__review.gif",
+      "original_path": "pets/bonnie/states/review.gif",
+      "bytes": 80936,
+      "sha256": "109ad4b488a68b07037bdab788576701203e1d2a44601531c53ed95f471438c8"
+    },
+    {
+      "path": "pets__bonnie__states__running-left.gif",
+      "original_path": "pets/bonnie/states/running-left.gif",
+      "bytes": 102805,
+      "sha256": "7276955706c44748b6708e594bc296b7cc2cc850bd1f9f752ffe21e34cc485f2"
+    },
+    {
+      "path": "pets__bonnie__states__running-right.gif",
+      "original_path": "pets/bonnie/states/running-right.gif",
+      "bytes": 105891,
+      "sha256": "fc6febeab866922a57b113a8193f19bf874652dd1e04c209ef10dd70f023b796"
+    },
+    {
+      "path": "pets__bonnie__states__running.gif",
+      "original_path": "pets/bonnie/states/running.gif",
+      "bytes": 82769,
+      "sha256": "0c9a08d58b66bcb71ea4126e688da27917bfd524bc35f66d5585f0fdf58dba46"
+    },
+    {
+      "path": "pets__bonnie__states__waiting.gif",
+      "original_path": "pets/bonnie/states/waiting.gif",
+      "bytes": 80506,
+      "sha256": "de213b548e87e96608cc6261fa2dacaa2f3824e8c1e6a4d0c6cfa2e33e4b138d"
+    },
+    {
+      "path": "pets__bonnie__states__waving.gif",
+      "original_path": "pets/bonnie/states/waving.gif",
+      "bytes": 60856,
+      "sha256": "24c4645307d4ff0d47634492c03258075683cb0b13141aaef14d267bd4bea8a1"
+    },
+    {
+      "path": "pets__bonnie__timeline.json",
+      "original_path": "pets/bonnie/timeline.json",
+      "bytes": 4550,
+      "sha256": "bdeb0223d0365a5c4cd693ecdceba9281b7d6d5f44e36fb6ef95520f0ed28e95"
+    },
+    {
+      "path": "pets__fenny__all-actions.gif",
+      "original_path": "pets/fenny/all-actions.gif",
+      "bytes": 2873997,
+      "sha256": "2f2bcd29ed6eb52a58debdba097a449f5ae29b50e6432af6da11f77b00cb1295"
+    },
+    {
+      "path": "pets__fenny__all-actions.mp4",
+      "original_path": "pets/fenny/all-actions.mp4",
+      "bytes": 385725,
+      "sha256": "5d25dd893f785860e75464212da57109bea8301dcb4af9547209f151419e7fa0"
+    },
+    {
+      "path": "pets__fenny__contact-sheet.png",
+      "original_path": "pets/fenny/contact-sheet.png",
+      "bytes": 2448321,
+      "sha256": "f71c5c9b2b9cac5a4a4b900308f37c33debf5614329118baff00129d96b6f540"
+    },
+    {
+      "path": "pets__fenny__direction-sheet.png",
+      "original_path": "pets/fenny/direction-sheet.png",
+      "bytes": 926515,
+      "sha256": "5a88b20c97a0046a1a836a07c4ab89cef53d1dd4376ff1e4a1dc22e4ef0e2e9a"
+    },
+    {
+      "path": "pets__fenny__idle-jump-idle.gif",
+      "original_path": "pets/fenny/idle-jump-idle.gif",
+      "bytes": 217008,
+      "sha256": "a2f2ed2b4efa412e946146a6aab9108dd12e92a686c03fd8c88726219fefcf3c"
+    },
+    {
+      "path": "pets__fenny__look-loop.gif",
+      "original_path": "pets/fenny/look-loop.gif",
+      "bytes": 801487,
+      "sha256": "526de4c425d39266fe2b1f94537e715e293b7cd35631221b68c19f7d6b861ded"
+    },
+    {
+      "path": "pets__fenny__spritesheet.png",
+      "original_path": "pets/fenny/spritesheet.png",
+      "bytes": 3015618,
+      "sha256": "4c3822e6d657f2e866c3ac7c781e3d1d481705738b520a77fee13ba1f81f4812"
+    },
+    {
+      "path": "pets__fenny__states__failed.gif",
+      "original_path": "pets/fenny/states/failed.gif",
+      "bytes": 87802,
+      "sha256": "3172292d8a1e6076031df9b4b7a89128b4cb124c2cf380235dddd9e2ac892704"
+    },
+    {
+      "path": "pets__fenny__states__idle.gif",
+      "original_path": "pets/fenny/states/idle.gif",
+      "bytes": 76313,
+      "sha256": "04072ca47cbc590d59dac9df517a1267600630db5537501ad9fbbbcde77b90ea"
+    },
+    {
+      "path": "pets__fenny__states__jumping.gif",
+      "original_path": "pets/fenny/states/jumping.gif",
+      "bytes": 64448,
+      "sha256": "5c75cd5eae9ff2fc6ca9eac48fdf591811c816675f836f3ea9d1457797f87dc5"
+    },
+    {
+      "path": "pets__fenny__states__review.gif",
+      "original_path": "pets/fenny/states/review.gif",
+      "bytes": 72021,
+      "sha256": "19651f5e32c0711ed39692d0ccba35c5a2e0873c16231b04798f2a963784f8a2"
+    },
+    {
+      "path": "pets__fenny__states__running-left.gif",
+      "original_path": "pets/fenny/states/running-left.gif",
+      "bytes": 91467,
+      "sha256": "671fef100723b4fdbf5cf104da649febe720cd4605884e57e83ae98544e37fb2"
+    },
+    {
+      "path": "pets__fenny__states__running-right.gif",
+      "original_path": "pets/fenny/states/running-right.gif",
+      "bytes": 87264,
+      "sha256": "74eae5b6217620f943071cebfbab018d1782f8e36c2b4cddb128692f52ed5080"
+    },
+    {
+      "path": "pets__fenny__states__running.gif",
+      "original_path": "pets/fenny/states/running.gif",
+      "bytes": 73009,
+      "sha256": "fb9d3e05c2e7529d07dc599c08220da2c151ba9187efdf65d2e1dfa02274465a"
+    },
+    {
+      "path": "pets__fenny__states__waiting.gif",
+      "original_path": "pets/fenny/states/waiting.gif",
+      "bytes": 67152,
+      "sha256": "5aae67e8e3bbfe303bc8fd967e8fc3a15347b1a41f388aab58df0a8cf362a881"
+    },
+    {
+      "path": "pets__fenny__states__waving.gif",
+      "original_path": "pets/fenny/states/waving.gif",
+      "bytes": 51382,
+      "sha256": "8ed16f0baeded344f25808fbad7746d01ce964cefb89bad4b2d49ffc93df2472"
+    },
+    {
+      "path": "pets__fenny__timeline.json",
+      "original_path": "pets/fenny/timeline.json",
+      "bytes": 4550,
+      "sha256": "bdeb0223d0365a5c4cd693ecdceba9281b7d6d5f44e36fb6ef95520f0ed28e95"
+    }
+  ]
+}
