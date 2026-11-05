@@ -44,10 +44,28 @@
       "sha256": "2e1f82e53e44f4e89bfed06aa423e22d81959e729b0e9a8088b4e9623f6aff8b"
     },
     {
+      "path": "PORTING.md",
+      "original_path": "PORTING.md",
+      "bytes": 8215,
+      "sha256": "9e0e87adea9a10ad7f01a46a5728facf679c0c0dfedfa8da37e926b6d9a0c898"
+    },
+    {
       "path": "README.md",
       "original_path": "README.md",
-      "bytes": 2594,
-      "sha256": "b80d28d7fbf8c097e6e4c0529ea9691651624350bd92e9b4ae9cd2c4aafe93c8"
+      "bytes": 3243,
+      "sha256": "b5def931b9f6318504d289bc9cd967503ba6fecd9b8ba11d75754034e796aeca"
+    },
+    {
+      "path": "animation-map.json",
+      "original_path": "animation-map.json",
+      "bytes": 3660,
+      "sha256": "ed1b1df942aa4e82f7a6194114a717ed76e09ea197a8b115575b7f9fcdfe63f0"
+    },
+    {
+      "path": "export_frames.py",
+      "original_path": "export_frames.py",
+      "bytes": 13493,
+      "sha256": "712d598cccaa091544c033f84dfa5c50574755ee16ca0cf9459b9e44dead9143"
     },
     {
       "path": "pets__bonnie__all-actions.gif",
@@ -252,6 +270,25 @@
       "original_path": "pets/fenny/timeline.json",
       "bytes": 4550,
       "sha256": "bdeb0223d0365a5c4cd693ecdceba9281b7d6d5f44e36fb6ef95520f0ed28e95"
+    },
+    {
+      "path": "portable-frames.zip",
+      "original_path": "portable-frames.zip",
+      "bytes": 6624358,
+      "sha256": "ca62075eaa49d4a16624bb4116c4eb291272dc9ef1b27f3efbca772cc47c7940"
     }
-  ]
+  ],
+  "portability": {
+    "schema_version": 1,
+    "guide": "PORTING.md",
+    "animation_map": "animation-map.json",
+    "exporter": "export_frames.py",
+    "frame_archive": "portable-frames.zip",
+    "exported_png_frames": 146,
+    "target_integration_notes": [
+      "DeepSeek Harness",
+      "Claude Code"
+    ],
+    "host_plugin_installed_or_tested": false
+  }
 }
